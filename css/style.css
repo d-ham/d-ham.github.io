@@ -71,7 +71,7 @@ html {
    color: #eff2c0;
    padding: 10px;
    font-size: 12px;
-   position: absolute;
+   position: fixed;
    bottom: 0;
    width: 100%;
 }
