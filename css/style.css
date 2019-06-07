@@ -26,6 +26,10 @@ html {
     color: #222629;
  }
 
+ nav {
+   margin: 6px;
+ }
+
  .pageWrapper {
     max-width: 1200px;
     margin: 0 auto;
